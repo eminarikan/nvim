@@ -1,0 +1,2 @@
+require("tttm")
+print("hello")
