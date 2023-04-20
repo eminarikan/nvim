@@ -1,2 +1,1 @@
 require("tttm")
-print("hello")
